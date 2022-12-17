@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm David Slavik</h1>
-<h3 align="center">A passionate frontend developer & desigener from Croatia</h3>
+<h3 align="center">A passionate frontend developer & designer from Croatia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slavikdavid&label=Profile%20views&color=0e75b6&style=flat" alt="slavikdavid" /> </p>
 
@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://www.slavikdavid.com" target="_blank">www.slavikdavid.com</a>
 
-- 📄 Know about my experiences <a href="https://www.slavikdavid.com/docs/CV.pdf" target="_blank">www.slavikdavid.com/docs/CV.pdf</a>
+- 📄 Find my CV <a href="https://www.slavikdavid.com/docs/CV.pdf" target="_blank">www.slavikdavid.com/docs/CV.pdf</a>
 
-- ⚡ Fun fact **I'm a big fan of comic books, movies & music**
+- ⚡ Fun fact: **I'm a big fan of comic books, movies & music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
