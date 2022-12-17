@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Smart Lock project for FOI**
 
-- 👨‍💻 All of my projects are available at [www.slavikdavid.com](www.slavikdavid.com)
+- 👨‍💻 All of my projects are available at [https://www.slavikdavid.com](www.slavikdavid.com)
 
-- 📄 Know about my experiences [www.slavikdavid.com/docs/CV.pdf](www.slavikdavid.com/docs/CV.pdf)
+- 📄 Know about my experiences [https://www.slavikdavid.com/docs/CV.pdf](https://www.slavikdavid.com/docs/CV.pdf)
 
 - ⚡ Fun fact **I'm a big fan of comic books, movies & music**
 
