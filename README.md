@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://www.slavikdavid.com" target="_blank">www.slavikdavid.com</a>
 
-- 📄 Know about my experiences <a href="https://www.slavikdavid.com/docs/CV.pdf" target="_blank">www.slavikdavid.com</a>
+- 📄 Know about my experiences <a href="https://www.slavikdavid.com/docs/CV.pdf" target="_blank">www.slavikdavid.com/docs/CV.pdf</a>
 
 - ⚡ Fun fact **I'm a big fan of comic books, movies & music**
 
