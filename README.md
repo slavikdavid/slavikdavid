@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slavikdavid" alt="slavikdavid" /></a> </p>
 
-- 🔭 I’m currently working on **Smart Lock project for FOI**
+- 🔭 I’m currently working as Frontend developer at IPC
 
 - 👨‍💻 All of my projects are available at <a href="https://www.slavikdavid.com" target="_blank">www.slavikdavid.com</a>
 
