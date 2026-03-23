@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slavikdavid" alt="slavikdavid" /></a> </p>
 
-- 🔭 I’m currently working as Researher at Faculty of Organization and Informatics in Varaždin
+- 🔭 I’m currently working as Junior Researcher at Faculty of Organization and Informatics in Varaždin
 
 - 👨‍💻 All of my projects are available at <a href="https://www.slavikdavid.com" target="_blank">www.slavikdavid.com</a>
 
